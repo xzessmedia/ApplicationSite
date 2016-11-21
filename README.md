@@ -4,8 +4,8 @@ TODO: Add Templates
 
 ## Installation
 
-Upload all files to your server
-Call http......yoursite.../index.php?action=upload to upload your Bewerbung
+Upload all files to your server.
+Then: call http......yoursite.../index.php?action=upload to upload your Bewerbung
 
 ## Usage
 
